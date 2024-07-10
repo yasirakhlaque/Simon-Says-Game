@@ -14,3 +14,4 @@ The rules are quite simple
 </ul>
 
 <h3>Notice : I am working to track the high score of the user .Stay tuned for that feature</h3>
+<h2>Good News i have added the feature to track high score of the user </h2>
