@@ -13,4 +13,4 @@ The rules are quite simple
   <li>Enjoy the game! and create the highest score among your friends</li>
 </ul>
 
-<h3>Note : I am working to track the high score of the user .Stay tuned for that feature</h3>
+<h3>Notice : I am working to track the high score of the user .Stay tuned for that feature</h3>
