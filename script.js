@@ -92,4 +92,6 @@ function reset() {
     level = 0;
     userScore = 0;
     updateScores();
+    document.addEventListener("touchstart",startGame, { once: true });
+
 }
